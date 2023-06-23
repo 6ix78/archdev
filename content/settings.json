@@ -17,11 +17,12 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "iyoo space 🔮" },
+    "logo": { "text": "{iyoo}" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Unique Scripts", "url": "scripts.iyoo.space" },
+        { "label": "Blog", "url": "/blog" },
+        "label' "Unique Template", "siteUrl": "http://scripts.iyoo.space/",
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
