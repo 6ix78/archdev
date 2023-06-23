@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "{iyoo}" },
+    "logo": { "text": "iyoo" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "let's Chat 💬",
-        "url": ""
+        "whatsapp": "https://wa.me/message/MA3KSJKWFKS5A1"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
