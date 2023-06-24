@@ -27,8 +27,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Let's talk 💬",
-        "whatsapp": "https://wa.me/message/MA3KSJKWFKS5A1"
+        "label": "Resume",
+        "url": "https://wa.me/message/MA3KSJKWFKS5A1",
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
