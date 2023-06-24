@@ -1,11 +1,11 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://iyoo.space/",
+    "title": "Get unique HIYP website scripts",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "6ix",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "iyoo" },
+    "logo": { "text": "{iyoo}" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -27,7 +27,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "let's Chat 💬",
+        "label": "Let's talk 💬",
         "whatsapp": "https://wa.me/message/MA3KSJKWFKS5A1"
       },
       "footer": [
